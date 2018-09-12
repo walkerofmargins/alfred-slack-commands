@@ -1,5 +1,5 @@
 # alfred-slack-commands
-Alfred command to automate slack
+Alfred commands to automate slack
 
 Simple command using Applescript
 
