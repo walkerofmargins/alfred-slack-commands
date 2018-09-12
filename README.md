@@ -1,7 +1,7 @@
 # alfred-slack-commands
 Alfred commands to automate slack
 
-Simple command using Applescript
+Simple Alfred Workflow using Applescript
 
 Created because I often find that I forget to put Slack to sleep when I'm on a call, and this little script means that I don't need to go back into Slack and turn it off
 
